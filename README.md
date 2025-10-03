@@ -1,4 +1,4 @@
-# HR Analytics Dashboard 📊
+# HR Dashboard 📊
 
 This project presents an interactive HR Analytics Dashboard built with **Power BI**.
 
