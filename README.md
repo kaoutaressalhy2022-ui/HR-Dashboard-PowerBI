@@ -15,7 +15,7 @@ This dashboard helps HR managers and decision-makers to:
 - Support data-driven HR decisions
 
 ## 🖼️ Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot] 
 
 ## 🛠️ Tools & Technologies
 - Power BI
