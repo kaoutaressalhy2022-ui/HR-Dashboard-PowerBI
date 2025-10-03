@@ -15,7 +15,7 @@ This dashboard helps HR managers and decision-makers to:
 - Support data-driven HR decisions
 
 ## 🖼️ Preview
-![Dashboard Screenshot] 
+![Dashboard Screenshot] https://github.com/kaoutaressalhy2022-ui/HR-Dashboard-PowerBI/blob/main/HR%20Dashboard.png
 
 ## 🛠️ Tools & Technologies
 - Power BI
